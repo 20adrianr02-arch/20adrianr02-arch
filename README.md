@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=false&vCenter=false&width=435&lines=Estudiante+de+DAM;Backend+Developer+en+formaci%C3%B3n;Buscando+oportunidad+FP+Dual)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=32CD32&center=false&vCenter=false&width=435&lines=Estudiante+de+DAM;Backend+Developer+)](https://git.io/typing-svg)
 
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el [CPIFP Los Enlaces] en Zaragoza. Me apasiona la lógica detrás del software, la resolución de problemas complejos y la creación de arquitecturas limpias y escalables. 
 
@@ -22,13 +22,6 @@ Mis proyectos no son solo "ejercicios de clase". Me esfuerzo por aplicar buenas 
 - **Arquitecturas limpias** (Separación en Modelo-Vista-Controlador / Gestor).
 - **Control estricto de Excepciones** y validación de datos mediante Regex.
 - **Interfaces Gráficas (GUI)** con Java Swing.
-
-### 📊 Estadísticas de GitHub
-
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=20adrianr02-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20adrianr02-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
 
 ### 📫 Contacto
 
