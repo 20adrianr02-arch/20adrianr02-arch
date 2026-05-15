@@ -17,7 +17,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el [CP
 </div>
 
 ### ¿Qué encontrarás en mis repositorios?
-Mis proyectos no son solo "ejercicios de clase". Me esfuerzo por aplicar buenas prácticas de ingeniería de softwar ademas de proyectos personales:
+Me esfuerzo por aplicar buenas prácticas de ingeniería de software:
 - **Programación Orientada a Objetos (POO) avanzada** (Polimorfismo, Herencia, Interfaces).
 - **Arquitecturas limpias** (Separación en Modelo-Vista-Controlador / Gestor).
 - **Control estricto de Excepciones** y validación de datos mediante Regex.
